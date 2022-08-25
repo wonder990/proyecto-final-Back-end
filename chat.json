@@ -1,0 +1,26 @@
+[
+  {
+    "email": "asdasd@gmail.com",
+    "fecha": "24/8/2022 21:15:52",
+    "mensaje": "asd",
+    "id": 1
+  },
+  {
+    "email": "paperfez@gmail.com",
+    "fecha": "24/8/2022 21:16:00",
+    "mensaje": "asd",
+    "id": 2
+  },
+  {
+    "email": "gustavo@gmail.com",
+    "fecha": "24/8/2022 21:22:02",
+    "mensaje": "hola",
+    "id": 3
+  },
+  {
+    "email": "672083436@asd",
+    "fecha": "24/8/2022 21:23:48",
+    "mensaje": "sdfsdf",
+    "id": 4
+  }
+]
